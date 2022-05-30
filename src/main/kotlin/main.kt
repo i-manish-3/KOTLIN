@@ -31,7 +31,7 @@ fun main() {
 //    println(name)
 //    println(name!!::class.simpleName)
 
-    // readLine takes input in string if we want to take input in integer we have to type-caste it.
+// readLine takes input in string if we want to take input in integer we have to type-caste it.
 
 //    val rollNo = readLine()!!.toInt()
 //    println(rollNo)
